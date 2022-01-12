@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChargingSplit_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TiredSplitDown0000" x="0" y="0" width="1000" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="TiredSplitDown0001" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0002" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0003" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0004" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0005" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0006" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0007" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0008" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0009" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0010" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0011" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitDown0012" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0000" x="2000" y="0" width="1000" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="TiredSplitIdle0001" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0002" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0003" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0004" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0005" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0006" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0007" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0008" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0009" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0010" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0011" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0012" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0013" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitIdle0014" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0000" x="3000" y="1000" width="1000" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="TiredSplitLeft0001" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0002" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0003" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0004" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0005" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0006" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0007" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0008" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0009" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0010" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0011" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0012" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0013" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitLeft0014" x="0" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0000" x="1000" y="2000" width="1000" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="TiredSplitRight0001" x="1000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0002" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0003" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0004" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0005" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0006" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0007" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0008" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0009" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0010" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0011" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0012" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0013" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitRight0014" x="2000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0000" x="3000" y="2000" width="1000" height="1000" pivotX="0" pivotY="0"/>
+	<SubTexture name="TiredSplitUp0001" x="3000" y="2000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0002" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0003" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0004" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0005" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0006" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0007" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0008" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0009" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0010" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0011" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0012" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0013" x="0" y="3000" width="1000" height="1000"/>
+	<SubTexture name="TiredSplitUp0014" x="0" y="3000" width="1000" height="1000"/>
+</TextureAtlas>

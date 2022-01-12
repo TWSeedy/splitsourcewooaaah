@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF HEY!!0000" x="0" y="0" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="BF idle dance white0000" x="500" y="0" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="Dad idle dance BLACK LINE0000" x="1000" y="0" width="1967" height="945" pivotX="0" pivotY="0"/>
+	<SubTexture name="GF Dancing Beat WHITE0000" x="2967" y="0" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="Mom Idle BLACK LINE0000" x="3467" y="0" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="Parent Christmas Idle Black Lines0000" x="0" y="945" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="Pico Idle Dance0000" x="500" y="945" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="SENPAI idle Black Lines0000" x="1000" y="945" width="500" height="500" pivotX="0" pivotY="0"/>
+	<SubTexture name="spooky dance idle BLACK LINES0000" x="1500" y="945" width="500" height="500" pivotX="0" pivotY="0"/>
+</TextureAtlas>

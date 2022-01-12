@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="splitNBfOptions.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splitnbfbumpwoa0000" x="0" y="0" width="1112" height="824" frameX="-36" frameY="-33" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0001" x="1112" y="0" width="1102" height="813" frameX="-42" frameY="-39" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0002" x="2214" y="0" width="1174" height="889"/>
+	<SubTexture name="splitnbfbumpwoa0003" x="0" y="889" width="1162" height="875" frameX="-8" frameY="-7" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0004" x="1162" y="889" width="1156" height="867" frameX="-12" frameY="-11" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0005" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0006" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0007" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0008" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0009" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0010" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0011" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0012" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0013" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+	<SubTexture name="splitnbfbumpwoa0014" x="2318" y="889" width="1152" height="863" frameX="-14" frameY="-13" frameWidth="1174" frameHeight="889"/>
+</TextureAtlas>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicSplit_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicSplitDown0000" x="0" y="0" width="1300" height="1300" pivotX="0" pivotY="0"/>
+	<SubTexture name="SonicSplitDown0001" x="0" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0002" x="1300" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0003" x="1300" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0004" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0005" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0006" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0007" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0008" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0009" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0010" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0011" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitDown0012" x="2600" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0000" x="3900" y="0" width="1300" height="1300" pivotX="0" pivotY="0"/>
+	<SubTexture name="SonicSplitIdle0001" x="3900" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0002" x="5200" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0003" x="5200" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0004" x="6500" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0005" x="6500" y="0" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0006" x="0" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0007" x="0" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0008" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0009" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0010" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0011" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0012" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0013" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitIdle0014" x="1300" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0000" x="2600" y="1300" width="1300" height="1300" pivotX="0" pivotY="0"/>
+	<SubTexture name="SonicSplitLeft0001" x="2600" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0002" x="3900" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0003" x="3900" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0004" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0005" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0006" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0007" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0008" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0009" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0010" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0011" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitLeft0012" x="5200" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0000" x="6500" y="1300" width="1300" height="1300" pivotX="0" pivotY="0"/>
+	<SubTexture name="SonicSplitRight0001" x="6500" y="1300" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0002" x="0" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0003" x="0" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0004" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0005" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0006" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0007" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0008" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0009" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0010" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0011" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitRight0012" x="1300" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0000" x="2600" y="2600" width="1300" height="1300" pivotX="0" pivotY="0"/>
+	<SubTexture name="SonicSplitShoot0001" x="2600" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0002" x="3900" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0003" x="5200" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0004" x="6500" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0005" x="6500" y="2600" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0006" x="0" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0007" x="0" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0008" x="1300" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0009" x="1300" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0010" x="1300" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0011" x="1300" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitShoot0012" x="1300" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0000" x="2600" y="3900" width="1300" height="1300" pivotX="0" pivotY="0"/>
+	<SubTexture name="SonicSplitUp0001" x="2600" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0002" x="3900" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0003" x="3900" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0004" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0005" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0006" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0007" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0008" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0009" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0010" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0011" x="5200" y="3900" width="1300" height="1300"/>
+	<SubTexture name="SonicSplitUp0012" x="5200" y="3900" width="1300" height="1300"/>
+</TextureAtlas>

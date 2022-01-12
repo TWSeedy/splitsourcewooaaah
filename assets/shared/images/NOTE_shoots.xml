@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_shoots.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shoot blue hold end0000" x="0" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot blue hold piece0000" x="50" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot green hold end0000" x="100" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot green hold piece0000" x="150" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot pruple end hold0000" x="200" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot purple hold piece0000" x="250" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot red hold end0000" x="300" y="0" width="50" height="64" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot red hold piece0000" x="350" y="0" width="50" height="44" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot down0000" x="0" y="64" width="193" height="193" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot left0000" x="193" y="64" width="193" height="193" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot right0000" x="0" y="257" width="193" height="193" pivotX="0" pivotY="0"/>
+	<SubTexture name="shoot up0000" x="193" y="257" width="193" height="193" pivotX="0" pivotY="0"/>
+</TextureAtlas>

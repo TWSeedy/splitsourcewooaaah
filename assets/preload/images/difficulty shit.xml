@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="difficulty shit.png"><SubTexture name="difficulty shit hard0000" x="0" y="0" width="356" height="125" frameX="0" frameY="0" frameWidth="356" frameHeight="125" />
+<SubTexture name="difficulty shit normal0000" x="0" y="125" width="356" height="125" frameX="0" frameY="0" frameWidth="356" frameHeight="125" />
+<SubTexture name="difficulty shit easy0000" x="0" y="250" width="356" height="125" frameX="0" frameY="0" frameWidth="356" frameHeight="125" />
+</TextureAtlas>

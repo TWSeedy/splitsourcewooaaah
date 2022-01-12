@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonicd_Up.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonicd Up bg0000" x="0" y="0" width="2560" height="1400" pivotX="0" pivotY="0"/>
+	<SubTexture name="Sonicd Up bg0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0002" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0003" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0004" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0005" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0006" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0007" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0008" x="2560" y="1400" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0009" x="2560" y="1400" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0010" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="Sonicd Up bg0011" x="5120" y="0" width="2560" height="1400"/>
+</TextureAtlas>

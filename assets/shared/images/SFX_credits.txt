@@ -1,0 +1,12 @@
+No one on the vs Split team seems to know how to make noise effects.
+So we had decided to use sounds on the internet.
+This notepad is listing all the sound effects and giving credits to those who made them.
+
+Cutscene 1
+Great shine - Deltarune dev team
+
+Cutscene 2
+snd_badexplosion - Deltarune dev team
+snd_magicsprinkle - Deltarune dev team
+
+Cutscene 3

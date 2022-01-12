@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="change_the_world.png">
+<SubTexture name="myfinalmessage0000" x="0" y="0" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0001" x="621" y="0" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0002" x="1242" y="0" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0003" x="0" y="729" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0004" x="621" y="729" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0005" x="1242" y="729" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0006" x="0" y="1458" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0007" x="621" y="1458" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+<SubTexture name="myfinalmessage0008" x="1242" y="1458" width="621" height="729" frameX="0" frameY="0" frameWidth="621" frameHeight="729" />
+</TextureAtlas>
